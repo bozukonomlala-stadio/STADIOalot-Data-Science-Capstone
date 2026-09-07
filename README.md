@@ -4,7 +4,18 @@ Data Science Capstone project for STADIOalot. SS1
 
 ## Part A: Motivation
 
+According to the case study, Stadioalot operates as an e-commerce shopping platform in South Africa . The platform relies on search functionality for Stadioalot customers to navigate over 30 million products on the platform.
+
+When navigating so many products indexing and ranking products based on criteria and product attributes like product rating, price,product title , description, service provider and relevance is critical.
+
+The aim of this research would be to improve search relevance of Stadioalot product searches, this would then  benefit multiple stakeholders, namely the customer who would better be able to find relevant and accurate products the service provider who would have products that are more discoverable and therefore a more profitable of Stadioalot .The creation of such a model would aid in Stadioalot 2030 strategy of a personalised storefront for customer .
+
+This data science investigation is feasible as Stadioalot records product reviewers , customer searchers , sales actions like add to cart , purchases and search abandonment. Additionally Stadioalot also collects data on product catalogs , attributes, prices and products images and reviews. This data provides enough data to investigate if products data and customer behaviour data can be used to improve the platforms search results
+
+
 ## Part B: Problem Statement
+
+
 
 ## Part D: Repository Structure
 
