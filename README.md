@@ -91,9 +91,11 @@ The case study does not mention the infrastructure of Stadioalot and it’s tech
 
 
 
+
+
+## References
+
 Reference List Entry
 Moses, K. (2021) Modeling Product Search Relevance in e-Commerce: Home Depot Case Study, Medium. Towards Data Science. Available at: https://medium.com/data-science/modeling-product-search-relevance-in-e-commerce-home-depot-case-study-8ccb56fbc5ab (Accessed: 7 September 2026).
 Reference List Entry: Du Toit, M. (2022) Improving Product Search using Machine Learning, Medium. Takealot Engineering. Available at: https://medium.com/@matthysdutoit/improving-product-search-using-machine-learning-d6c63ed49aa (Accessed: 7 September 2026). 
 
-
-## References
