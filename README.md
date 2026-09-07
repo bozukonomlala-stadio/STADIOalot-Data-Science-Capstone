@@ -15,6 +15,16 @@ This data science investigation is feasible as Stadioalot records product review
 
 ## Part B: Problem Statement
 
+Stadioalot has a search relevance issue. From both the customer and the seller's product information.
+
+When it comes to the customer the current Stadioalot search system ranks products by using keywords, product popularity and paid ad placements. This results in the most relevant products being buried down in less relevant results and this results in abandonment searches
+
+While for the seller on Stadioalot  the problem is that due to inconsistent product categories and description customers struggle to find relevant product results.
+Stadioalot captures customer behaviour data like product search and product views however this data is not fully utilised to understand product relevance and the impact of product ranking and product metadata from the sellers
+
+Therefore this research aim to investigate whether customer search behaviour together with product metadata from Stadioalot sellers can be used to predict product relevance and aid in relevant product ranking for Stadioalot customers 
+
+
 
 
 ## Part D: Repository Structure
