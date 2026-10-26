@@ -1,3 +1,17 @@
+## SS3 Capstone Video Presentation
+
+This presentation provides an overview of the research,
+BM25 and semantic search models, model evaluation,
+and recommendations for improving product discoverability.
+
+[Watch my SS3 Capstone Presentation](https://afdafilm-my.sharepoint.com/:v:/g/personal/bozuko_nomlala_afda_co_za/IQB-hRz1ZczxT6aFyDiqrWs-AVnre4NY6bkZLQIh5oKKnuI?e=ZunXMa)
+
+
+
+
+
+
+
 # STADIOalot-Data-Science-Capstone
 Data Science Capstone project for STADIOalot. SS1
 # STADIOalot Data Science Capstone Project
